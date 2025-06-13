@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: true, 
-    port: process.env.PORT || 5173, 
+    port: process.env.PORT || 5173,
+    allowedHosts: ['portafo-vite-jsx.onrender.com'],
     }
 });
