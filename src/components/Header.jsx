@@ -12,10 +12,10 @@ function Header() {
           />
         </div>
         <h1 className="text-5xl md:text-6xl font-bold text-white mb-4 drop-shadow-md">
-          Hola, soy <span className="text-fluorescent-pink">Tu Nombre</span>
+          Bienvenidos a <span className="text-fluorescent-pink">Clean Mind</span>
         </h1>
         <p className="text-xl md:text-2xl text-white mb-8 font-light">
-          Desarrollador de Software | Entusiasta de la IA y la Nube
+          explora tu mente | se EntusIAsta
         </p>
         <a
           href="#about"
