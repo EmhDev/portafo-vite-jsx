@@ -7,6 +7,6 @@ export default defineConfig({
   server: {
     host: true, 
     port: process.env.PORT || 5173,
-    allowedHosts: ['portafo-vite-jsx.onrender.com'],
+    allowedHosts: ['portafo-vite-jsx.onrender.com','server.allowedHosts'],
     }
 });
