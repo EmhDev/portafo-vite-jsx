@@ -6,7 +6,7 @@ function Header() {
       <div className="max-w-4xl mx-auto z-10">
         <div className="mb-8">
           <img
-            src="https://placehold.co/200x200/FFD1DC/333333?text=Tu+Foto"
+            src="portafo-vite-jsx\src\resource\cleanmind_logo_v1.png"
             alt="Tu Foto Profesional"
             className="w-48 h-48 rounded-full mx-auto object-cover border-4 border-white shadow-lg hover-glow"
           />
